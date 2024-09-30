@@ -1,3 +1,14 @@
+
+
+
+
+
+
+
+
+
+
+
 # Chatbot Project
 
 This is a simple chatbot implemented in Python using Natural Language Processing (NLP) techniques. The chatbot can respond to user queries based on a dataset of predefined questions and answers.
@@ -20,5 +31,12 @@ This is a simple chatbot implemented in Python using Natural Language Processing
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/chatbot.git
+   git clone https://github.com/chamikamunithunga/chatbot.git
    cd chatbot
+
+   Technologies Used
+Python 3
+NLTK (Natural Language Toolkit)
+Pandas
+Scikit-learn
+NumPy
