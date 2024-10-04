@@ -14,6 +14,7 @@
 
 
 # Chatbot Project
+-------------------
 
 This is a simple chatbot implemented in Python using Natural Language Processing (NLP) techniques. The chatbot can respond to user queries based on a dataset of predefined questions and answers.
 
