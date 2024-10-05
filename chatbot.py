@@ -44,6 +44,8 @@ def get_response(user_input):
     # Return the corresponding answer
     return df['answer'].iloc[index]
 
+
+
 # Step 6: Run the Chatbot
 def chatbot():
     print("Chatbot: Hello! How can I assist you today? (type 'exit' to stop)")
